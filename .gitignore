@@ -1,0 +1,4 @@
+__pycache__/
+migrations/
+instances/
+pim_scrapper/
